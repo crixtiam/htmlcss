@@ -1,0 +1,100 @@
+:root{
+    --chanchito-barriga:rgb(156, 44, 184);
+}
+
+
+.titulo-n{
+    color: rgb(12, 92, 32);
+}
+
+.titulo-html{
+    color: blueviolet;
+}
+
+label{
+    color: rgb(13, 44, 44);
+
+}
+
+#img-cat{
+    background-color: darkolivegreen;
+}
+
+
+
+
+.animalito{
+    background: var(--chanchito-barriga);
+    width: 300px;
+    height: 300px;
+    display: black;
+    margin-top: 5%;
+    margin:auto;
+
+    
+}
+
+.barriga{
+    background: var(--chanchito-barriga);
+}
+
+.chanchito-inferior{
+    top: 40%;
+    left: 23.5%;
+    width: 53%;
+    height: 45%;
+    background: var(--chanchito-barriga);
+}
+
+.mano-izquierda{
+    top: 40%;
+    left: 23.5%;
+    width: 53%;
+    height: 45%;
+    background: var(--chanchito-barriga);
+
+}
+
+.mano-derecha{
+
+}
+
+
+.pie-izquierda{
+
+}
+
+.pie-derecha{
+    
+}
+
+.img-gato{
+    background-color: rgb(200, 255, 0);
+    border: 4px;
+    margin: 35px;
+    padding: 25px;
+    border-width: 7px;
+    border-color: darkmagenta;
+    border-style: solid dashed solid dotted;
+    border-radius: 20px;
+}
+
+.div-padre{
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+}
+
+.div-hijo1{
+    background-color: aquamarine;
+    width: 50%;
+    height: 50px;
+    float: left;
+}
+
+.div-hijo2{
+    background-color: blue;
+    width: 50%;
+    height: 50px;
+    float: right;
+}

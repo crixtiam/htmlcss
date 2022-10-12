@@ -1,0 +1,63 @@
+p {
+  color: blue;
+}
+
+ol{
+  color: chocolate;
+}
+
+ul{
+  color: chocolate;
+}
+
+.lista-gatos{
+  color: chocolate;
+}
+
+h2{
+  font-size: 14px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+image-cat{
+  color: blue;
+  border-width: 8px;
+  border-color: blue;
+  border-style: solid dashed dotted double;
+}
+
+.border-radius-image{
+  border-radius: 20px;
+}
+
+#title-cat{
+  font-size: 30px;
+  color: blueviolet;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.eagle-img{
+  width: 400px;
+  height: 200px;
+  color: brown;
+}
+
+#div-eagle{
+  color: cornflowerblue;
+}
+
+#contenedor-principal{
+  background-color: yellow;
+  padding: 5px;
+  margin: 5px;
+}
+
+.rectangulo{
+  background-color: blue;
+  margin: 5px;
+}
+
+.em{
+  background-color: darkmagenta;
+  width: 15em;
+}
